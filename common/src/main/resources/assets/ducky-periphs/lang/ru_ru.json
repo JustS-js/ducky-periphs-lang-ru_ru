@@ -8,6 +8,7 @@
     "item.ducky-periphs.entity_detector_block": "Детектор сущностей",
     
     "subtitles.ducky-periphs.quack": "Писк резиновой уточки",
+    "subtitles.ducky-periphs.hexxy_quack": "Писк наколдованной уточки",
     "itemGroup.ducky-periphs.general": "Ducky Peripherals",
 
     "block.ducky-periphs.keyboard_block": "Клавиатура",
@@ -49,7 +50,7 @@
     "block.minecraft.banner.ducky-periphs.ducky.red": "Красная уточка",
     "block.minecraft.banner.ducky-periphs.ducky.black": "Чёрная уточка",
 	
-	"ducky-periphs.keyboardescmsg": "Нажмите ESC для выхода из клавиатуры",
+    "ducky-periphs.keyboardescmsg": "Нажмите ESC для выхода из клавиатуры",
 
 
     "ducky-periphs.keycraftingzone.esc": "Esc",
